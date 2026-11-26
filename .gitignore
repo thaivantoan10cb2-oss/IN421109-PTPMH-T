@@ -1,0 +1,22 @@
+## .NET build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+## Test and coverage output
+TestResults/
+coverage/
+*.trx
+
+## OS files
+.DS_Store
+Thumbs.db
